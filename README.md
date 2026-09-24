@@ -49,6 +49,7 @@
 | <img src="https://i.eoht.net/airport/spiritcat_logo.webp" alt="" width="24" height="24"> [灵猫网络(SpiritCat)](https://eoht.net/serve/airport/spiritcat) | 约¥7.08/月 | 45GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/spiritcat) |
 | <img src="https://i.eoht.net/airport/u1s1_logo.webp" alt="" width="24" height="24"> [有一说一(U1S1)](https://eoht.net/serve/airport/u1s1) | ¥8/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/u1s1) |
 | <img src="https://i.eoht.net/airport/yunjiexian_logo.webp" alt="" width="24" height="24"> [云界线(YunJieXian)](https://eoht.net/serve/airport/yunjiexian) | ¥8/月 | 60GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/yunjiexian) |
+| <img src="https://i.eoht.net/airport/yuntu_logo.webp" alt="" width="24" height="24"> [云图机场(YunTu)](https://eoht.net/serve/airport/yuntu) | ¥20/月 | 150GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/yuntu) |
 
 <a id="compare-airport-cards"></a>
 
