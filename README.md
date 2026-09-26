@@ -60,7 +60,7 @@
 2. **看使用方式**：长期使用可比较周期套餐；偶尔使用或准备备用线路，可查看标注支持不限时套餐的机场。需要第三方客户端时，同时确认通用订阅格式与协议。
 3. **看线路与实测资料**：点击机场名称或“前往详情”查看完整评测，结合[机场线路选择指南](https://eoht.net/serve/routes/selection)与[三天测试指南](https://eoht.net/serve/routes/choose-guide)，按自己的网络与常用时段判断。
 
-需要核对新用户限制、套餐排除条件或复制折扣码，请查看[机场优惠码汇总](https://github.com/jcsift/airport-coupons)。
+需要核对新用户限制、套餐排除条件或复制优惠码，请查看[机场优惠码汇总](https://github.com/jcsift/airport-coupons)。
 
 <a id="airport-card-faq"></a>
 
