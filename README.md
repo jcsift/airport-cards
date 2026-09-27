@@ -39,7 +39,7 @@
 | <img src="https://i.eoht.net/airport/laddercloud_logo.webp" alt="" width="24" height="24"> [梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud) | 约¥7.42/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/laddercloud) |
 | <img src="https://i.eoht.net/airport/yinxingren_logo.webp" alt="" width="24" height="24"> [隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren) | 约¥9.08/月 | 80GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/yinxingren) |
 | <img src="https://i.eoht.net/airport/9yun_logo.webp" alt="" width="24" height="24"> [九云机场(9Yun)](https://eoht.net/serve/airport/9yun) | ¥6/月 | 200GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/9yun) |
-| <img src="https://i.eoht.net/airport/cailu_logo.webp" alt="" width="24" height="24"> [财路云(CaiLu)](https://eoht.net/serve/airport/cailu) | ¥7/月 | 64GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/cailu) |
+| <img src="https://i.eoht.net/airport/xiongmao_logo.webp" alt="" width="24" height="24"> [熊猫云(XiongMao)](https://eoht.net/serve/airport/xiongmao) | ¥6/月 | 300GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/xiongmao) |
 | <img src="https://i.eoht.net/airport/liyun_logo.webp" alt="" width="24" height="24"> [鲤云(LiYun)](https://eoht.net/serve/airport/liyun) | ¥7/月 | 64GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/liyun) |
 | <img src="https://i.eoht.net/airport/jinyun_logo.webp" alt="" width="24" height="24"> [锦云(JinYun)](https://eoht.net/serve/airport/jinyun) | ¥6/月 | 64GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/jinyun) |
 | <img src="https://i.eoht.net/airport/miaomiao_logo.webp" alt="" width="24" height="24"> [秒秒云(MiaoMiao)](https://eoht.net/serve/airport/miaomiao) | 约¥6.58/月 | 64GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/miaomiao) |
