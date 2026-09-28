@@ -52,6 +52,8 @@
 | <img src="https://i.eoht.net/airport/yuntu_logo.webp" alt="" width="24" height="24"> [云图机场(YunTu)](https://eoht.net/serve/airport/yuntu) | ¥20/月 | 150GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/yuntu) |
 | <img src="https://i.eoht.net/airport/weitu_logo.webp" alt="" width="24" height="24"> [唯兔云(WeiTuYun)](https://eoht.net/serve/airport/weitu) | 约¥6.66/月 | 45GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/weitu) |
 | <img src="https://i.eoht.net/airport/quanqiuyun_logo.webp" alt="" width="24" height="24"> [全球云(QuanQiuYun)](https://eoht.net/serve/airport/quanqiuyun) | ¥8.25/月 | 59GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/quanqiuyun) |
+| <img src="https://i.eoht.net/airport/liulianyun_logo.webp" alt="" width="24" height="24"> [榴莲云(LiuLianYun)](https://eoht.net/serve/airport/liulianyun) | ¥8/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/liulianyun) |
+| <img src="https://i.eoht.net/airport/shenxing_logo.webp" alt="" width="24" height="24"> [神行云(ShenXingYun)](https://eoht.net/serve/airport/shenxing) | ¥8/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/shenxing) |
 
 <a id="compare-airport-cards"></a>
 
