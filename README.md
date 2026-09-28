@@ -25,7 +25,7 @@
 | <img src="https://i.eoht.net/logo/1fly_logo.webp" alt="" width="24" height="24"> [一翻云(1fly)](https://eoht.net/serve/airport/1fly) | 约¥8.17/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/1fly) |
 | <img src="https://i.eoht.net/airport/yinyun_logo.webp" alt="" width="24" height="24"> [隐云(YinYun)](https://eoht.net/serve/airport/yinyun) | 约¥22.83/月 | 150GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/yinyun) |
 | <img src="https://i.eoht.net/logo/2mao_logo.webp" alt="" width="24" height="24"> [二猫云(2mao)](https://eoht.net/serve/airport/2mao) | 约¥7.42/月 | 60GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/2mao) |
-| <img src="https://i.eoht.net/logo/edgenova_logo.webp" alt="" width="24" height="24"> [边缘节点(EdgeNova)](https://eoht.net/serve/airport/edgenova) | ¥9/月 | 45GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/edgenova) |
+| <img src="https://i.eoht.net/logo/edgenova_logo.webp" alt="" width="24" height="24"> [边缘节点(EdgeNova)](https://eoht.net/serve/airport/edgenova) | 约¥8.17/月 | 45GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/edgenova) |
 | <img src="https://i.eoht.net/logo/wuyou_logo.webp" alt="" width="24" height="24"> [无忧链接(WuYou)](https://eoht.net/serve/airport/wuyou) | 约¥6.58/月 | 40GB | ✅ | ✅ | [前往详情](https://eoht.net/serve/airport/wuyou) |
 | <img src="https://i.eoht.net/logo/echo_logo.webp" alt="" width="24" height="24"> [Echo](https://eoht.net/serve/airport/echo) | ¥8/月 | 80GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/echo) |
 | <img src="https://i.eoht.net/logo/sslar_logo.webp" alt="" width="24" height="24"> [SSLAR](https://eoht.net/serve/airport/sslar) | 约¥13.58/月 | 100GB | ❌ | ✅ | [前往详情](https://eoht.net/serve/airport/sslar) |
